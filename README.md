@@ -1,9 +1,9 @@
-<h1 align="center">Hi there👋, I'm Léo Sgarbi</h1>
-<h3 align="center">
+<h1 align="flex-start">Hi there👋, I'm Léo Sgarbi</h1>
+<h3 align="flex-start">
   A Junior Developer learning programming | Building things for the web
 </h3>
 
-<p align="center">
+<p align="flex-start">
   <a href="https://www.linkedin.com/in/leosgarbi/" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/leosgarbi?logo=linkedin&style=for-the-badge"
@@ -11,22 +11,22 @@
   /></a>
 </p>
 
-<p align="center">
+<p align="flex-start">
 - 🔭 2024 Goal <strong>Build more projects in React as a Front End.</strong>
 </p>
 
-<p align="center">
+<p align="flex-start">
   - 🌱 I’m currently learning <strong>to remove my code chaos, one at a time.</strong>
 </p>
 
 
-<p align="center">- 📫 How to reach me <strong>lsgarbi1@gmail.com</strong></p>
+<p align="flex-start">- 📫 How to reach me <strong>lsgarbi1@gmail.com</strong></p>
 
 <h1></h1>
-<h3 align="center">Languages and Tools I'm Learning</h3>
+<h3 align="flex-start">Languages and Tools I'm Learning</h3>
 <br />
 
-<div align="center" style="display: flex; align-items: center; flex-wrap: wrap; gap:"8px">
+<div align="flex-start" style="display: flex; align-items: center; flex-wrap: wrap; gap:"8px">
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/> 
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
@@ -40,9 +40,9 @@
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>
 </div>
 <br />
-<div align="center">
+<div align="flex-start">
   <img
-    align="center"
+    align="flex-start"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosgarbi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     alt="Github Stats"
   />
