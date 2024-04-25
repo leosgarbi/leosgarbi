@@ -1,6 +1,6 @@
 <h1 align="flex-start">Hi there👋, I'm Léo Sgarbi</h1>
 <h3 align="flex-start">
-  A Junior Developer learning programming | Building things for the web
+  I'm a beginner developer learning programming | Building things for the web
 </h3>
 
 <p align="flex-start">
@@ -34,7 +34,7 @@
   <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/free-css3-9-1175237.png?f=webp" alt="CSS"/>
   <img height="32" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github"/>
   <img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"/>
-  <img height="32" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="c"/>
+  <img height="32" src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="c"/>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
 </div>
 <br />
