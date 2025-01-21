@@ -12,7 +12,7 @@
 </p>
 
 <p align="flex-start">
-- 🔭 2024 Goal <strong>Build more projects in React as a Front End.</strong>
+- 🔭 2025 Goal <strong>Build more projects in React as a Front End.</strong>
 </p>
 
 <p align="flex-start">
