@@ -27,15 +27,15 @@
 <br />
 
 <div align="flex-start" style="display: flex; align-items: center; flex-wrap: wrap; gap:"8px">
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/> 
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
-  <img height="32" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML"/>
-  <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/free-css3-9-1175237.png?f=webp" alt="CSS"/>
-  <img height="32" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github"/>
-  <img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"/>
-  <img height="24" src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="c"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
+  <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/> 
+  <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
+  <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
+  <img width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML"/>
+  <img width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/free-css3-9-1175237.png?f=webp" alt="CSS"/>
+  <img width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github"/>
+  <img width="32" height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git"/>
+  <img width="32" height="24" src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="c"/>
+  <img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
 </div>
 <br />
 <div align="flex-start">
