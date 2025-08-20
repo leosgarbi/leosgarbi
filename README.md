@@ -1,6 +1,6 @@
 <h1 align="flex-start">Hi there👋, I'm Léo Sgarbi</h1>
 <h3 align="flex-start">
-  I'm a beginner developer learning programming | Building things for the web
+  I'm a front-end developer | Building things for the web
 </h3>
 
 <p align="flex-start">
